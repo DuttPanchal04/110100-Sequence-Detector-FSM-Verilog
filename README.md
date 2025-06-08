@@ -1,7 +1,7 @@
 # 110100 Sequence Detector FSM in Verilog
 
 ## Project Overview
-This project implements a finite state machine (https://www.linkedin.com/in/dattpanchal04/FSM) in Verilog to detect the binary sequence `110100` in a serial input stream. The sequence detector is designed to recognize this specific 6-bit pattern and output a signal (e.g., `out`) when the pattern is matched.
+This project implements a finite state machine in Verilog to detect the binary sequence `110100` in a serial input stream. The sequence detector is designed to recognize this specific 6-bit pattern and output a signal (e.g., `out`) when the pattern is matched.
 
 ## Features
 - **Input**: A serial bit stream, usually represented by a single-bit input `in`.
